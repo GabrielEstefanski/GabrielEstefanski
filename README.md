@@ -21,6 +21,11 @@ I’m a developer passionate about building modern, efficient, and scalable solu
 - 📫 How to reach me: [gbraga2004@outlook.com](mailto:gbraga2004@outlook.com)
 - ⚡ Fun fact: I love music, especially Tool, Gojira and Slayer.
 
+---
+
+
+![snake gif](https://github.com/GabrielEstefanski/GabrielEstefanski/blob/output/github-snake.svg)
+
 
 ---
 
@@ -28,9 +33,16 @@ I’m a developer passionate about building modern, efficient, and scalable solu
 ## 🛠 Technologies & Languages
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-![Portfolio](https://img.shields.io/badge/Portfolio-%230089d9?style=for-the-badge&logo=vercel&logoColor=white)
-![Vue](https://img.shields.io/badge/Vue-3.0-brightgreen?style=for-the-badge&logo=vue.js)
-![CSharp](https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=csharp&logoColor=white)
+  <img alt="Vue.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
+  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 </div>
 
 
