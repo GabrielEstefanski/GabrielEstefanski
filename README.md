@@ -12,7 +12,7 @@ I’m a developer passionate about building modern, efficient, and scalable solu
 ## 💻 About Me
 
 - 🔭 Currently working with **Vue 3 + TypeScript** and **C#** for full-stack development, delivering scalable solutions with clean, high-performance code.
-- 🌱 Constantly learning new technologies and best practices in **Python** and **JavaScript**.
+- 🌱 Constantly learning new technologies and best practices in **C#** and **JavaScript**.
 - 👯 Interested in collaborating on open-source projects and modern front-end development with **React** and **Vue.js**.
 - 🚀 I work with Agile methodologies (Scrum) and apply best practices such as SOLID, Clean Architecture, automated testing (Jest, Vitest), and structured versioning with Git.
 - 💡 I also developed an esoteric programming language in Rust, exploring advanced compiler concepts and parallel execution.
