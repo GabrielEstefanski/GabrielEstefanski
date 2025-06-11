@@ -24,14 +24,6 @@ I’m a developer passionate about building modern, efficient, and scalable solu
 ---
 
 
-<p align="center">
-  <img src="./github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" />
-</p>
-
-
----
-
-
 ## 🛠 Technologies & Languages
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
