@@ -1,5 +1,7 @@
 
-# Hi, I’m Gabriel Braga Estefanski 👋
+<p align="left">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=000000&vCenter=true&width=440&height=60&lines=Hi%2C+I%27m+Gabriel+Braga+Estefanski;Fullstack+Dev+%7C+Vue+%7C+C%23+%7C+Node" alt="Typing SVG" />
+</p>
 
 Welcome to my GitHub profile!  
 I’m a developer passionate about building modern, efficient, and scalable solutions.
@@ -26,15 +28,9 @@ I’m a developer passionate about building modern, efficient, and scalable solu
 ## 🛠 Technologies & Languages
 
 <div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img alt="Vue.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />   <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+![Portfolio](https://img.shields.io/badge/Portfolio-%230089d9?style=for-the-badge&logo=vercel&logoColor=white)
+![Vue](https://img.shields.io/badge/Vue-3.0-brightgreen?style=for-the-badge&logo=vue.js)
+![CSharp](https://img.shields.io/badge/C%23-.NET-239120?style=for-the-badge&logo=csharp&logoColor=white)
 </div>
 
 
