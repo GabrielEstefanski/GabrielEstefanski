@@ -24,7 +24,9 @@ I’m a developer passionate about building modern, efficient, and scalable solu
 ---
 
 
-![snake gif](https://github.com/GabrielEstefanski/GabrielEstefanski/blob/output/github-snake.svg)
+<p align="center">
+  <img src="./github-contribution-grid-snake.gif" alt="GitHub Contribution Snake" />
+</p>
 
 
 ---
