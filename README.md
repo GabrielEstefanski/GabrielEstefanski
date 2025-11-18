@@ -64,6 +64,7 @@ I’m a developer passionate about building modern, efficient, and scalable solu
 
 | Project               | Description                                         | Link                                             |
 |-----------------------|---------------------------------------------------|--------------------------------------------------|
+| **FlightWatch**       | A real-time flight tracking system | [Repository](https://github.com/GabrielEstefanski/FlightWatch) |
 | **Murlang**           | Esoteric language inspired by murlocs (Rust) | [Repository](https://github.com/GabrielEstefanski/murlang) |
 | **OrdersHub**         |                                                    | [Repository](https://github.com/GabrielEstefanski/orders-hub) |
 | **Managease**         |                                                    | [Repository](https://github.com/GabrielEstefanski/Managease) |
