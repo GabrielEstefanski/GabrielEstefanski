@@ -1,70 +1,43 @@
+## Gabriel Braga Estefanski
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F7F7F7&background=000000&vCenter=true&width=440&height=60&lines=Hi%2C+I%27m+Gabriel+Braga+Estefanski;Fullstack+Dev+%7C+Vue+%7C+C%23+%7C+Node" alt="Typing SVG" />
-</p>
+Software engineer based in Jacareí, Brazil. Backend engineer at an aerospace
+company; on the side, a Rust N-body simulator.
 
-Welcome to my GitHub profile!  
-I’m a developer passionate about building modern, efficient, and scalable solutions.
+### What I'm working on
 
+**EBOM platform** at an aerospace company (since 2023) — the system that owns
+the engineering bill of materials across cabin product lines. Multi-level
+cascade generation and explosion, ECN-driven change workflows, comparison and
+audit between revisions, queued processing for heavy operations, and
+idempotent multi-rank propagation so concurrent edits and retries don't
+corrupt the tree. Two things I'm proud of from this work: a backend refactor
+that took critical APIs from ~2 minutes to ~5 seconds, and an internal
+automation that lifted delivery speed for the team by ~40%.
 
-🌐 **Check out my portfolio:** [https://www.gabrielestefanski.dev/](https://www.gabrielestefanski.dev/)
+**Rust N-body simulator** — a numerical integrator for gravitational dynamics.
+Multi-crate Cargo workspace, Python bindings via maturin, and a specific
+interest in making a simulation's *physical model* a first-class artifact you
+can pin and cite the same way Cargo.lock pins code dependencies.
 
----
+### Selected work
 
-## 💻 About Me
+- **FlightWatch** — Live map of aircraft in flight. Pulls real-time positions
+  from OpenSky, click any plane for details, auto-clusters at zoom-out.
+  Underneath: C# backend with Clean Architecture and CQRS, MongoDB, low-latency
+  push via SignalR, event-driven with RabbitMQ + MassTransit, Next.js + Leaflet
+  frontend. Structured logging, distributed tracing, unit and integration tests.
+  → [GabrielEstefanski/FlightWatch](https://github.com/GabrielEstefanski/FlightWatch)
 
-- 🔭 Currently working with **Vue 3 + TypeScript** and **C#** for full-stack development, delivering scalable solutions with clean, high-performance code.
-- 🌱 Constantly learning new technologies and best practices in **C#** and **JavaScript**.
-- 👯 Interested in collaborating on open-source projects and modern front-end development with **React** and **Vue.js**.
-- 🚀 I work with Agile methodologies (Scrum) and apply best practices such as SOLID, Clean Architecture, automated testing (Jest, Vitest), and structured versioning with Git.
-- 💡 I also developed an esoteric programming language in Rust, exploring advanced compiler concepts and parallel execution.
-- 📫 How to reach me: [gbraga2004@outlook.com](mailto:gbraga2004@outlook.com)
-- ⚡ Fun fact: I love music, especially Tool, Gojira and Slayer.
+### Stack
 
----
+Day-to-day: C#, Node.js, TypeScript, Vue 3, React, PostgreSQL, SQL Server,
+Docker, AWS.
+Comfortable with: WebSockets / SignalR, RabbitMQ, MassTransit, Clean
+Architecture, DDD, async and parallel processing.
+Currently working in: Rust (workspaces, PyO3 / maturin), numerical code.
 
+### Contact
 
-## 🛠 Technologies & Languages
-
-<div style="display: flex; gap: 15px; flex-wrap: wrap;">
-  <img alt="Vue.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" />
-  <img alt="React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-  <img alt="C#" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
-  <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img alt="Node.js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-  <img alt="TypeScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img alt="Python" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img alt="SQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img alt="Docker" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
-  <img alt="Git" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
-
-
-- **Full Stack:** React, Vue 3, Node.js, C# 
-- **Frontend:** Tailwind CSS, Bulma, HTML, CSS 
-- **Backend:** TypeScript, WebSockets, SignalR, Express, Prisma, Sequelize 
-- **Automated Tests:** Jest, Vitest 
-- **Databases:** PostgreSQL, MySQL, OracleDB, MongoDB, Hive 
-- **DevOps & Cloud:** Docker, AWS 
-- **Architecture & Patterns:** Clean Architecture, MVC, SOLID, DRY, KISS, Design Patterns (Factory, Singleton, Observer, Repository) 
-- **Version Control:** Git (Git Flow, Conventional Commits) 
-- **Tools:** VS Code, Postman, Git, Jira 
-
-
----
-
-## 📚 Education
-
-* Bachelor's in Computer Science, Anhembi University (2021-2025) 
-* Programming Technician, Univap (2019-2021) 
-
----
-
-## 🚀 Recent Projects
-
-| Project               | Description                                         | Link                                             |
-|-----------------------|---------------------------------------------------|--------------------------------------------------|
-| **FlightWatch**       | A real-time flight tracking system | [Repository](https://github.com/GabrielEstefanski/FlightWatch) |
-| **Murlang**           | Esoteric language inspired by murlocs (Rust) | [Repository](https://github.com/GabrielEstefanski/murlang) |
-| **OrdersHub**         |                                                    | [Repository](https://github.com/GabrielEstefanski/orders-hub) |
-| **Managease**         |                                                    | [Repository](https://github.com/GabrielEstefanski/Managease) |
+- gabrielbragaestefanski@gmail.com
+- [gabrielestefanski.dev](https://www.gabrielestefanski.dev/)
+- [linkedin.com/in/gabriel-estefanski](https://www.linkedin.com/in/gabriel-estefanski/)
