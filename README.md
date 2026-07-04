@@ -1,9 +1,22 @@
 ## Gabriel Braga Estefanski
 
 Software engineer based in Jacareí, Brazil. Backend engineer at an aerospace
-company; on the side, a Rust N-body simulator.
+company; on the side, [apsis](https://github.com/GabrielEstefanski/apsis) — a
+validated N-body dynamics library in Rust.
 
 ### What I'm working on
+
+**[apsis](https://github.com/GabrielEstefanski/apsis)** — N-body dynamics in
+Rust, built around one idea: force perturbations as independent, citable
+operator crates rather than patches to a monolith. Each operator declares the
+physical preconditions it needs from the gravitational kernel, and the run
+record pins the physical model the way Cargo.lock pins code — an artifact you
+can cite. Every physics claim is gated in CI: Mercury's 1PN perihelion
+precession reproduced to a derived 4.6×10⁻⁶ error budget, radiation-pressure
+dust decay within 0.95 % of the Burns 1979 law, trajectory parity with
+REBOUND IAS15 at the 10⁻¹³ energy floor. Byte-identical output across
+Windows/Linux and x86_64/aarch64 under a pinned toolchain. Archived at
+Zenodo: [DOI 10.5281/zenodo.21197539](https://doi.org/10.5281/zenodo.21197539).
 
 **EBOM platform** at an aerospace company (since 2023) — the system that owns
 the engineering bill of materials across cabin product lines. Multi-level
@@ -13,11 +26,6 @@ idempotent multi-rank propagation so concurrent edits and retries don't
 corrupt the tree. Two things I'm proud of from this work: a backend refactor
 that took critical APIs from ~2 minutes to ~5 seconds, and an internal
 automation that lifted delivery speed for the team by ~40%.
-
-**Rust N-body simulator** — a numerical integrator for gravitational dynamics.
-Multi-crate Cargo workspace, Python bindings via maturin, and a specific
-interest in making a simulation's *physical model* a first-class artifact you
-can pin and cite the same way Cargo.lock pins code dependencies.
 
 ### Selected work
 
